@@ -1,0 +1,25 @@
+img{
+height: 850px;
+width: 100%;
+}
+.card-img-top{
+    height: 300px;
+}
+.row1{
+    margin-left: 150px;
+    background-color:none;
+}
+.col-4{
+    padding: 30px;
+    
+}
+.card{
+    background-color: rgba(6, 6, 8, 0.306);
+    color: aliceblue;
+    box-shadow: 1px 1px 10px rgb(40, 31, 31);
+    
+}
+.btn{
+    background-color: black;
+    border: none;
+}
